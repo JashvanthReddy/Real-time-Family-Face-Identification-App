@@ -1,0 +1,36 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px aquamarine;
+}
+
+.heading_div{
+    float: none;
+    background: antiquewhite;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px burlywood;
+    color: darkgoldenrod;
+}
+
+.result_para_tag{
+    box-shadow: 5px 5px 5px greenyellow;
+}
+
+.copyRightFooter{
+    background-color: bisque;
+    color: darkkhaki;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px lightsteelblue;
+    margin-top: 150px;
+}
